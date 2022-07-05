@@ -1,0 +1,11 @@
+export_paths:
+  - app/Tags/Vite.
+  - content
+  - public
+  - resources
+  - composer.json
+  - package.json
+  - postcss.config.js
+  - README.md
+  - tailwind.config.js
+  - vite.config.js
