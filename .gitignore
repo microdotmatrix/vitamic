@@ -17,3 +17,15 @@ yarn-error.log
 /.idea
 /.vscode
 /users
+/bootstrap
+/config
+/database
+/lang
+/routes
+/storage
+/tests
+.styleci.yml
+artisan
+*.lock
+phpunit.xml
+please
