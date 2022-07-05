@@ -1,9 +1,8 @@
 export_paths:
-  - app/Tags/Vite.
+  - app/Tags/Vite.php
   - content
   - public
   - resources
-  - composer.json
   - package.json
   - postcss.config.js
   - README.md

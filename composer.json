@@ -1,6 +1,11 @@
 {
     "name": "statamic/statamic",
     "description": "Statamic",
+    "extra": {
+        "laravel": {
+            "dont-discover": []
+        }
+    },
     "keywords": [
         "statamic",
         "cms",
@@ -33,11 +38,6 @@
         "allow-plugins": {
             "composer/package-versions-deprecated": true,
             "pixelfear/composer-dist-plugin": true
-        }
-    },
-    "extra": {
-        "laravel": {
-            "dont-discover": []
         }
     },
     "autoload": {
