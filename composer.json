@@ -1,5 +1,5 @@
 {
-    "name": "statamic/statamic",
+    "name": "microdotmatrix/vitamic",
     "description": "Statamic",
     "extra": {
         "laravel": {
